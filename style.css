@@ -1,0 +1,55 @@
+.container {
+    width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 50px;
+    border: 4px double rgb(117, 235, 152);
+    background-image: url(./Screenshot\ 2024-03-16\ 203322.png);
+    background-size: cover;
+    background-position: cover;
+    text-align: center;
+    height: 800px;
+}
+
+.heading {
+    color: rgb(9, 73, 57);
+    margin-top: 50px;
+}
+
+#taskInput {
+    width: 250px;
+    height: 40px;
+    padding: 2px;
+    border-radius: 40px;
+    color: rgb(16, 214, 82);
+    text-align: center;
+}
+
+.form {
+    margin-top: 40px;
+}
+
+.card {
+    background-image: url(./1489353.jpg);
+    background: cover;
+    border: 2px black;
+    border-radius: 90px;
+    height: fit-content;
+    width: max-content;
+    margin: 10px;
+}
+
+.btn {
+    background-image: url(./1489353.jpg);
+    border-radius: 100px;
+    border: 3px solid black;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+
+
+
+
